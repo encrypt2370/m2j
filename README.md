@@ -1,2 +1,4 @@
-# m2j
-WIP
+# m2j 
+*Work in Progress*
+
+Side Projct to learn AHK
